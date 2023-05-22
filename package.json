@@ -1,0 +1,20 @@
+{
+  "name": "cursoreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Primercommit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugenioand18/CursoReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugenioand18/CursoReact/issues"
+  },
+  "homepage": "https://github.com/Eugenioand18/CursoReact#readme"
+}
