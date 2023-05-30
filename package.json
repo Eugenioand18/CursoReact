@@ -20,7 +20,7 @@
   "devDependencies": {
     "standard": "^17.0.0"
   },
-  "eslintConfig": {
+  "esLintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
   }
 }
